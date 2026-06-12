@@ -1,0 +1,12 @@
+﻿public/uploads/products/*
+public/uploads/pops/*
+!public/uploads/products/.gitkeep
+!public/uploads/pops/.gitkeep
+config/db.production.php
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+sql/backup_*.sql
+*.sql.gz
